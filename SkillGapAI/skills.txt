@@ -1,0 +1,26 @@
+python
+java
+sql
+machine learning
+deep learning
+pandas
+numpy
+tensorflow
+pytorch
+aws
+docker
+kubernetes
+git
+flask
+django
+linux
+statistics
+matplotlib
+seaborn
+data analysis
+data visualization
+api
+react
+nodejs
+spark
+hadoop
